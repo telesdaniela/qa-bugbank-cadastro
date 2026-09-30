@@ -49,4 +49,4 @@ Não é só listar casos de teste, mas mostrar o raciocínio de QA: analisar o r
 
 ## Autor
 
-**Daniela Teles** | [[LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/telesdaniela/) | danielateles18@gmail.com
+**Daniela Teles** | (https://www.linkedin.com/in/telesdaniela/) | danielateles18@gmail.com
