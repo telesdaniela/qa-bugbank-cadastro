@@ -1,8 +1,11 @@
 # Testes da funcionalidade de Cadastro: BugBank
 
-Projeto de prática de QA sobre a funcionalidade de **Cadastro** do [BugBank](https://bugbank.netlify.app), um banco digital fictício criado para treino de testes.
+Projeto de prática de QA, criado de um exercício do Workshop da EBAC - O Futuro do QA na Era da IA,
 
-O foco não é só listar casos de teste, mas mostrar o raciocínio de QA: analisar o requisito, apontar lacunas, evitar suposições e transformar dúvidas em perguntas para o time de produto.
+No projeto analisei a funcionalidade de **Cadastro** do [BugBank](https://bugbank.netlify.app), um banco digital fictício criado para treino de testes.
+
+O foco do projeto era usar a IA como uma ferramenta de apoio no aprendizado sobre como desenvolver o pensamento crítico e analítico. 
+Não é só listar casos de teste, mas mostrar o raciocínio de QA: analisar o requisito, apontar lacunas, evitar suposições e transformar dúvidas em perguntas para o time de produto.
 
 ## O que foi feito
 
@@ -37,7 +40,7 @@ O foco não é só listar casos de teste, mas mostrar o raciocínio de QA: anali
 - **Eliminei casos ambíguos** para evitar defeitos falsos. Cada um tem justificativa e uma condição clara para voltar à suíte.
 - **Destaquei o maior risco de negócio:** a opção que concede R$ 1.000,00 de saldo inicial deve ser validada também no servidor, e não só na tela.
 
-## Próximos passos
+## Próximos passos (conforme aprendizado)
 
 - [ ] Executar os casos e registrar os resultados
 - [ ] Testes exploratórios dos cenários não cobertos
@@ -46,4 +49,4 @@ O foco não é só listar casos de teste, mas mostrar o raciocínio de QA: anali
 
 ## Autor
 
-**Seu Nome** | [LinkedIn](https://www.linkedin.com/in/seu-perfil) | seu-email@exemplo.com
+**Daniela Teles** | [[LinkedIn](https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/telesdaniela/) | danielateles18@gmail.com
