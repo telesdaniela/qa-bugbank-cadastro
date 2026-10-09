@@ -26,6 +26,6 @@ A mensagem exibida é "É campo obrigatório" nos três campos. A conta não é 
 - Dúvida relacionada em aberto: D11 (o texto das mensagens é obrigatório ou é só exemplo?).
 
 ## Evidências
-![Email vazio](../evidencias/bug001-cadastro-campo-email-vazio.png)
-![Senha vazia](../evidencias/bug002-cadastro-campo-senha-vazio.png)
-![Confirmação vazia](../evidencias/bug003-cadastro-campo-confirmacao-de-senha-vazio.png)
+![Email vazio](evidencias/evidencias/bug001-cadastro-campo-email-vazio.png)
+![Senha vazia](evidencias/evidencias/bug002-cadastro-campo-senha-vazio.png)
+![Confirmação vazia](evidencias/evidencias/bug003-cadastro-campo-confirmacao-de-senha-vazio.png)
