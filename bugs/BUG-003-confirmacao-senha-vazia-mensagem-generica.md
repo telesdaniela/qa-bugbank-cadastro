@@ -24,4 +24,4 @@ A mensagem exibida é "É campo obrigatório". A conta não é criada.
 - Dúvida relacionada em aberto: D11 (o texto das mensagens é obrigatório ou é só exemplo? O rótulo oficial é "Confirmação de senha" ou "Confirmar senha"?).
 
 ## Evidência
-<img width="1200" alt="Tela de cadastro com o campo Confirmação de senha vazio exibindo a mensagem É campo obrigatório" src="https://github.com/user-attachments/assets/c2a8a4ba-d230-49f9-a04c-291628661b51" />
+<img width="2507" height="1227" alt="bug003-cadastro-campo-confirmacao-de-senha-vazio" src="https://github.com/user-attachments/assets/c2a8a4ba-d230-49f9-a04c-291628661b51" />
