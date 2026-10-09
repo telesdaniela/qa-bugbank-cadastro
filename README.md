@@ -47,7 +47,7 @@ Não é só listar casos de teste, mas mostrar o raciocínio de QA: analisar o r
 | [casos-de-teste/casos-eliminados.md](casos-de-teste/casos-eliminados.md) | Casos eliminados e o motivo de cada um |
 | [casos-de-teste/casos-de-teste.csv](casos-de-teste/casos-de-teste.csv) | Mesmos casos em CSV, para importar no Excel ou Google Sheets |
 | [casos-de-teste/BugBank_Cadastro_Casos_de_Teste.xlsx](casos-de-teste/BugBank_Cadastro_Casos_de_Teste.xlsx) | Planilha completa (casos, eliminados, dúvidas e resumo) |
-| [execucao/BugBank_Cadastro_Execucao.xlsx](execucao/BugBank_Cadastro_Execucao.xlsx) | Planilha com o resultado da execução dos casos |
+| [execucao/BugBank_Cadastro_Execucao.xlsx](execução/BugBank_Cadastro_Execucao.xlsx) | Planilha com o resultado da execução dos casos |
 | [bugs/](bugs/) | Registro dos 3 bugs encontrados, com evidências |
 | [analise-de-requisitos/analise-critica.md](analise-de-requisitos/analise-critica.md) | Ambiguidades, cenários não cobertos e riscos |
 | [duvidas-para-produto/duvidas.md](duvidas-para-produto/duvidas.md) | Perguntas para validação das regras de negócio |
