@@ -27,7 +27,5 @@ A mensagem exibida é "É campo obrigatório" nos três campos. A conta não é 
 
 ## Evidências
 <img width="2511" height="1228" alt="bug001-cadastro-campo-email-vazio" src="https://github.com/user-attachments/assets/4f37872d-a7cf-4f07-bf66-6c8cdb394a29" />
-<img width="2505" height="1221" alt="bug002-cadastro-campo-senha-vazio" src="https://github.com/user-attachments/assets/3d0ec595-8836-4646-a0d2-9b2fa9bb3aec" />
-<img width="2507" height="1227" alt="bug003-cadastro-campo-confirmacao-de-senha-vazio" src="https://github.com/user-attachments/assets/c2a8a4ba-d230-49f9-a04c-291628661b51" />
 
 
