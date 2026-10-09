@@ -24,4 +24,4 @@ A mensagem exibida é "É campo obrigatório". A conta não é criada.
 - Dúvida relacionada em aberto: D11 (o texto das mensagens é obrigatório ou é só exemplo?).
 
 ## Evidência
-<img width="1200" alt="Tela de cadastro com o campo Senha vazio exibindo a mensagem É campo obrigatório" src="https://github.com/user-attachments/assets/3d0ec595-8836-4646-a0d2-9b2fa9bb3aec" />
+<img width="2505" height="1221" alt="bug002-cadastro-campo-senha-vazio" src="https://github.com/user-attachments/assets/3d0ec595-8836-4646-a0d2-9b2fa9bb3aec" />
