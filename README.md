@@ -36,8 +36,8 @@ Não é só listar casos de teste, mas mostrar o raciocínio de QA: analisar o r
 **Bugs encontrados:** nos campos Email, Senha e Confirmação de senha, a mensagem exibida é "É campo obrigatório" em vez da mensagem específica definida no requisito. No campo Nome a mensagem está correta, o que indica inconsistência entre os campos.
 
 - [BUG-001](bugs/BUG-001-mensagem-campo-obrigatorio.md) – Email vazio
-- [BUG-002](bugs/NOME-DO-ARQUIVO-BUG-002.md) – Senha vazia
-- [BUG-003](bugs/NOME-DO-ARQUIVO-BUG-003.md) – Confirmação de senha vazia
+- [BUG-002](bugs/BUG-002-senha-vazia-mensagem-generica.md) – Senha vazia
+- [BUG-003](bugs/BUG-003-confirmacao-senha-vazia-mensagem-generica.md) – Confirmação de senha vazia
 
 ## Conteúdo
 
